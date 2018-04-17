@@ -1,7 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
- <channel>		
+ <channel>
+ <title>twitter</title>
+ <link>http://example.com/happy-farmer</link>
+    <description>
+        Заброшенную землю передали андроиду
+        с внешностью известного японского хозяйственника.
+    </description>
 	<item>
+	<title>twitter1</title>
+ <link>http://example.com/happy-farmer1</link>
+ <pubDate>Tue, 17 Apr 2018 19:50:00 +0300</pubDate>
 		<description>#girl #chat #xxx 😝 Katiya, 22 😅 #onlinedating #amateur #pics #boobs</description>
 		<meta property="og:image" content="https://pp.userapi.com/c543107/v543107579/5262c/GrVlisDoqqc.jpg" />
 	</item>
