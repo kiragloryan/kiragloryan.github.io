@@ -1,17 +1,9 @@
-﻿<?php
-  $text = file('text.txt');
-  $img = file('img.txt');>
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
  <channel>		
 	<item>
-		<description><?php $text[0]></description>
-		<meta property="og:image" content="<?php $img[0]>" />
+		<description>#girl #chat #xxx 😝 Katiya, 22 😅 #onlinedating #amateur #pics #boobs</description>
+		<meta property="og:image" content="https://pp.userapi.com/c543107/v543107579/5262c/GrVlisDoqqc.jpg" />
 	</item>
  </channel>
 </rss>
-<?php
-unset($text[0]);
-file_put_contents('text.txt', implode('', $text));
-unset($img[0]);
-file_put_contents('img.txt', implode('', $img));>
